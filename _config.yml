@@ -1,1 +1,5 @@
- theme: jekyll-theme-merlot
+title: ohxela
+#logo
+description: Portfolio 
+#show_downloads: true
+theme: jekyll-theme-minimal
