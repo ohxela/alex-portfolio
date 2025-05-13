@@ -1,4 +1,4 @@
-# alex-portfolio
+# My Portfolio
 
 ## Projects
 ### Project 1
