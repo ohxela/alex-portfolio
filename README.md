@@ -7,11 +7,11 @@
 
 ### Project 2
 
-# Education
+## Education
 - Arizona State University
 - University of Maryland
 - Chandler Gilbert Community College
 
-# Work History
+## Work History
 - Workplace 1
 - Workplace 2
