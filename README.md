@@ -24,5 +24,7 @@
 - Designed and built an internal intranet network of web pages to centralize SOPs and Process Map documentations, significantly reducing grapevine communication and improving information accessibility across teams. Skilled in workflow analysis, cross-functional collaboration, and continuous improvement to enhance operational efficiency and clarity. 
 
 #### Project Management Platform : Asana & Monday
-- Spearheaded the implementation 
+- Spearheaded the implementation
+- Developed and customized Asana workflows
+- Trained team members & department leads: 
 
